@@ -1,4 +1,4 @@
 # Clock
-This is a clock build with HTML,Css,JavaScript.
+This is a clock build with HTML, Css, and JavaScript.
 
 ###### Created by Levani Papashvili @2020
