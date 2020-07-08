@@ -1,5 +1,5 @@
 # Clock
-This is a clock build with HTML, Css, and JavaScript.
+This is a clock build with HTML,CSS, and JavaScript.
 
 #### Deployment
 https://clock-javascript.netlify.app/
