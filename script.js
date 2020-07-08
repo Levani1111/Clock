@@ -22,3 +22,5 @@ function runTheClock() {
   MINUTEHAND.style.transform = "rotate(" + minPosition + "deg)";
   SECONDHAND.style.transform = "rotate(" + secPosition + "deg)";
 }
+
+var interval = setInterval(runTheClock, 1000);
